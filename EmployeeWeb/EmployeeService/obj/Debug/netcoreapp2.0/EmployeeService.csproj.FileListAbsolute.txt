@@ -1,0 +1,11 @@
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\bin\Debug\netcoreapp2.0\EmployeeService.deps.json
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\bin\Debug\netcoreapp2.0\EmployeeService.runtimeconfig.json
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\bin\Debug\netcoreapp2.0\EmployeeService.runtimeconfig.dev.json
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\bin\Debug\netcoreapp2.0\EmployeeService.dll
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\bin\Debug\netcoreapp2.0\EmployeeService.pdb
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\obj\Debug\netcoreapp2.0\EmployeeService.csprojResolveAssemblyReference.cache
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\obj\Debug\netcoreapp2.0\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\obj\Debug\netcoreapp2.0\EmployeeService.AssemblyInfoInputs.cache
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\obj\Debug\netcoreapp2.0\EmployeeService.AssemblyInfo.cs
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\obj\Debug\netcoreapp2.0\EmployeeService.dll
+C:\Users\bsumanth\source\repos\EmployeeWeb\EmployeeService\obj\Debug\netcoreapp2.0\EmployeeService.pdb
